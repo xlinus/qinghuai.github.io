@@ -7,31 +7,22 @@
 3. 2017/08 ~ 2018/08 原E/LH服 部落 Elapse公会 Naxx（10/15）DKP
 
 ### 公会制度
+
 G团制度
 
 ### 活动时间
-- 每周2 19：00 / 21:00  2场BWL
-- 每周3 19：00 / 21:00  2场MC
+
+- 每周2 19：00 / 21:00 开始 2场BWL
+- 每周3 19：00 / 21:00 开始 2场MC
 
 ### 副本攻略
 
 ```markdown
-调试中
-
 # MC
-## Header 2
-### Header 3
-
-
 # BWL
-
-1. 
-2. 
 # TAQ
 
-**Bold** and _Italic_ and `Code` text
- [GitHub Flavored Markdown](https://guides.github.com/)
-[Link](url) and ![Image](src)
+`调试中` 
 ```
 
 
