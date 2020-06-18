@@ -17,7 +17,7 @@ G团制度
 
 ### 副本攻略
 
-```ruby
+```markdown
 # MC
 # BWL
 # TAQ
