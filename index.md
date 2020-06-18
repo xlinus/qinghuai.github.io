@@ -2,9 +2,9 @@
 
 ### 公会介绍
 
-1. '2019/08 ~        ' Wow怀旧服 毁灭之刃 部落 情怀公会 GKP
-2. '2018/08 ~ 2019/05' 新N服 联盟 Reckless Wind公会 Naxx全通 DKP
-3. '2017/08 ~ 2018/08' 原E/LH服 部落 Elapse公会 Naxx（10/15）DKP
+1. 2019/08 ~          Wow怀旧服 毁灭之刃 部落 情怀公会 GKP
+2. 2018/08 ~ 2019/05  新N服 联盟 Reckless Wind公会 Naxx全通 DKP
+3. 2017/08 ~ 2018/08  原E/LH服 部落 Elapse公会 Naxx（10/15）DKP
 
 ### 公会制度
 
@@ -17,7 +17,7 @@ G团制度
 
 ### 副本攻略
 
-```markdown
+```ruby
 # MC
 # BWL
 # TAQ
