@@ -29,9 +29,10 @@ _每周2 晚7：00 优先开组当前最高副本_
 - MC
 - BWL
 - TAQ 安其拉
-  - [开门任务流程](./taq-page.html).
+  - [开门任务流程](./taq-page.html)
 
-
-
+- 常用工具
+  - 插件列表
+  - [天赋模拟器](http://www.nfuwow.com/talents/60/).
 
 
