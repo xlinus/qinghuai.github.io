@@ -6,12 +6,12 @@ layout: default
 
 本页面只介绍wow怀旧服版本同类精品插件,基本都是必装插件,其他优秀插件陆续收集中...
 
-- Atlas/AtlasLoot
+- Atlas/AtlasLoot 
 副本/掉落查询
 - ClassicCodex  
 最好的任务插件
 - DBM 
-副本boss警报插件
+副本boss警报插件  
 - ElvUI 
 最流行的界面集成类插件
 - ExRT  
@@ -30,19 +30,19 @@ layout: default
 世界buff提醒,位面查看
 - Postal  
 邮箱扩展功能
-- Recount 
+- Recount   
 伤害统计插件
 - ThreatClassic2  
 仇恨插件
 - TradeLog  
 交易记录
-- TrinketMenu 
+- TrinketMenu   
 饰品管理插件
 
-- WeakAuras2 
+- WeakAuras2  
 极其优秀的提醒 & 计时 & 扩展插件 [大量优秀字符串在这里](https://wago.io/classic-weakauras) 
 
-- WCL 
+- WCL   
 战斗记录分析,[具体使用方法在这里](https://cn.classic.warcraftlogs.com/)
 
 [←back](./)
