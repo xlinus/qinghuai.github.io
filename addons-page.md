@@ -6,17 +6,17 @@ layout: default
 
 本页面只介绍wow怀旧服版本同类精品插件,基本都是必装插件,其他优秀插件陆续收集中...
 
-- Atlas/AtlasLoot 
+- Atlas/AtlasLoot   
 副本/掉落查询
 - ClassicCodex  
 最好的任务插件
-- DBM 
+- DBM     
 副本boss警报插件  
-- ElvUI 
+- ElvUI   
 最流行的界面集成类插件
 - ExRT  
 最好的rl助手插件
-- GatherMate2 
+- GatherMate2   
 最好的采集类插件
 - InFlight  
 显示飞行时间
