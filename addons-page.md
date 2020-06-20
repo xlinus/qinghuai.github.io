@@ -22,7 +22,7 @@ layout: default
 显示飞行时间
 - ItemRack  
 一键换装
-- MeetingHorn 
+- MeetingHorn   
 集合石
 - Myslot  
 导入/导出按键动作条配置
