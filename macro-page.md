@@ -6,7 +6,7 @@ layout: default
 
 本页面搜集有用的宏（macro）:
 
-####取消buff
+#### 取消buff
     ```
 /cancelaura 奥术智慧
 /cancelaura 神圣之灵
