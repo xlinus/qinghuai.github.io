@@ -10,6 +10,7 @@ layout: default
 
 ```
 /cancelaura 奥术智慧
+/cancelaura 奥术光辉
 /cancelaura 神圣之灵
 /cancelaura 精神祷言
 /cancelaura 拯救祝福
