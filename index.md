@@ -33,6 +33,7 @@ G团制度
 
 - 常用工具
   - [插件列表](./addons-page.html)
+  - [宏命令收集](./macro-page.html)
   - [天赋模拟器](http://www.nfuwow.com/talents/60/)
 
 
