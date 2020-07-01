@@ -29,6 +29,7 @@ G团制度
 - MC
 - BWL
 - TAQ 安其拉
+  - [自然抗装收集](./nr-page.html)
   - [开门任务流程](./taq-page.html)
 
 - 常用工具
