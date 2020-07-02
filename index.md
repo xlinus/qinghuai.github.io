@@ -30,8 +30,9 @@ G团制度
 - BWL
 - TAQ 安其拉
   - [自然抗装收集](./nr-page.html)
-  - [开门任务流程](./taq-page.html)
-
+  - [开门任务流程](./taq-quest-page.html)
+  - [克苏恩攻略](./cthun-page.html)
+  
 - 常用工具
   - [插件列表](./addons-page.html)
   - [宏命令收集](./macro-page.html)
