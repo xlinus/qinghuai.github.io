@@ -32,7 +32,6 @@ G团制度
 - MC
 - BWL
 - TAQ 安其拉
-  - [TAQ BOSS数据](./taq-boss-page.html)
   - [自然抗装收集](./taq-nr-page.html)
   - [开门任务流程](./taq-quest-page.html)
   - [克苏恩攻略](./taq-cthun-page.html)
